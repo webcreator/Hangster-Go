@@ -7,10 +7,18 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+Hangster Gp — це новий спосіб знайомитись у реальному світі.
+Подивись, хто поруч на мапі, і приєднуйся до спільної активності.
+Шукай друзів, бігай разом, вигулюй собак чи просто йди поїсти з кимось новим.
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
+Можливості додатку:
+• Дивись, хто поруч у радіусі 5 км
+• Обирай статус: хочу піти на каву, бігати, гуляти, спілкуватись
+• Переглядай профілі інших людей на мапі
+• Надсилай повідомлення тим, хто поруч
+• Знайомся легко, без стресу
 
-Effortlessly share your thoughts in _a calm & dustless space._
+Цей додаток для тих, хто хоче живого спілкування у світі, де всі сидять в телефонах.
+Виходь з дому — і побач, хто поруч.
 
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+_Завантаж дотаток з [Appstore](https://github.com/the3ash/astro-chiri)_
