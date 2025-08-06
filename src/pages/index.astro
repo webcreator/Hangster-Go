@@ -6,11 +6,13 @@ import { themeConfig } from '@/config'
 import { getSortedFilteredPosts } from '@/utils/draft'
 
 const posts = await getSortedFilteredPosts()
+// Assume 'posts' is already sorted by date descending (latest first)
+const latestPosts = posts.slice(0, 2)
 ---
 
 <IndexLayout title={themeConfig.site.title} description={themeConfig.site.description}>
   <About />
   <main>
-    <PostList posts={posts} />
+    <PostList posts={latestPosts} />
   </main>
 </IndexLayout>
