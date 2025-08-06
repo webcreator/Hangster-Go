@@ -4,7 +4,7 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://hangster-go-qrda4.ondigitalocean.app/', // Site domain
-    title: 'Hangster Go - new people around you', // 
+    title: 'Hangster Go', // 
     author: 'Evhjen', // Evhen
     description: 'Подивись, хто поруч на мапі, і приєднуйся до спільної активності', // Site description
     language: 'en-US' // Default language
