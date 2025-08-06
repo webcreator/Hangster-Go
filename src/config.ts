@@ -4,9 +4,9 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://astro-chiri.netlify.app/', // Site domain
-    title: 'CHIRI', // Site title
-    author: '3ASH', // Author name
-    description: 'Minimal blog built by Astro', // Site description
+    title: 'CHIRI', // Hangster Go - new people around you
+    author: '3ASH', // Evhen
+    description: 'Подивись, хто поруч на мапі, і приєднуйся до спільної активності', // Site description
     language: 'en-US' // Default language
   },
 
