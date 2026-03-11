@@ -8,14 +8,14 @@ pubDate: 2025-08-06
 
 **Last updated:** March 11, 2026  
 **App:** Hangster Go  
-**Contact:** [mailto:info@webcreator.com.ua](mailto:info@webcreator.com.ua)
+**Contact:** info@webcreator.com.ua
 
 Hangster Go is committed to protecting children from Child Sexual Abuse and Exploitation (CSAE). These standards describe how we address CSAE and comply with child safety laws.
 
 ## 1. Child Safety Point of Contact
 
 For any concerns related to child safety, CSAE, or Child Sexual Abuse Material (CSAM), contact our Child Safety team:
-[mailto:info@webcreator.com.ua](mailto:info@webcreator.com.ua)
+info@webcreator.com.ua
 - **Subject:** Child Safety / CSAE Report
 
 We respond to all child safety reports within 24 hours.
@@ -43,7 +43,7 @@ Users can report objectionable content, abuse, or CSAE-related concerns through:
 
 - **In-app Report feature:** Available when viewing profiles, messages, or content
 - **Block and Report:** Users can block other users and submit a report
-- **Email:** [mailto:info@webcreator.com.ua](mailto:info@webcreator.com.ua)
+- **Email:** info@webcreator.com.ua
 for detailed reports
 
 All reports are reviewed within 24 hours.
@@ -67,4 +67,4 @@ For our full Privacy Policy and Terms of Use, see: [Privacy Policy & Terms of Us
 ## 7. Contact
 
 **Hangster Go Child Safety Team**  
-Email: [mailto:info@webcreator.com.ua](mailto:info@webcreator.com.ua)
+Email: info@webcreator.com.ua
