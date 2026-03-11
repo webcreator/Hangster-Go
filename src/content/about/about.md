@@ -6,7 +6,7 @@ title: 'About'
 This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
-
+[Lading image](./assets/landing.png)
 Hangster Go — це новий спосіб знайомитись у реальному світі.
 Подивись, хто поруч на мапі, і приєднуйся до спільної активності.
 Шукай друзів, бігай разом, вигулюй собак чи просто йди поїсти з кимось новим.
